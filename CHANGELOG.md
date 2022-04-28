@@ -1,3 +1,7 @@
+## 45.0.2
+
+- add hotfix-b
+
 ## 45.0.1
 
 - add hotfix-a
