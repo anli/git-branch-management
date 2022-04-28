@@ -1,3 +1,8 @@
+## 45.1.0-rc.1
+
+- add feature-a
+- add feature-b
+
 ## 45.0.1
 
 - add hotfix-a
